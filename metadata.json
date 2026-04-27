@@ -1,0 +1,11 @@
+{
+  "name": "Golaço PRO",
+  "description": "Seu portal definitivo do futebol brasileiro. Acompanhe seu time de coração, placares ao vivo, notícias geradas por IA e estatísticas detalhadas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "Futebol",
+    "Esportes",
+    "Notícias de Time",
+    "Placar ao Vivo"
+  ]
+}
